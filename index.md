@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Welcome
+## About me
+I make software that helps with the little things, such as a basic user-friendly Location Management System.
 
-You can use the [editor on GitHub](https://github.com/KookaburraDev/kookaburradev.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Programs
+### In development
+- LCM App
+A user friendly Location Management System designed for whatever you need it for. I had the problem of always loosing cables or not being able to find them, but now look up where they are. I can also look for anything in each particular draw, set of draws, or even each individual household.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KookaburraDev/kookaburradev.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Future plans
+-LCM Web
+A web-based version of LCM App. More intitive and easier to use, mobile-friendly and possible expansion to a [PWA](https://developers.google.com/web/progressive-web-apps/) (Progressive Web App).
