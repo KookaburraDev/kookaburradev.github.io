@@ -10,3 +10,8 @@ A user friendly Location Management System designed for whatever you need it for
 ### Future plans
 -LCM Web
 A web-based version of LCM App. More intitive and easier to use, mobile-friendly and possible expansion to a [PWA](https://developers.google.com/web/progressive-web-apps/) (Progressive Web App).
+
+
+
+### Contact details:
+Coming soon
