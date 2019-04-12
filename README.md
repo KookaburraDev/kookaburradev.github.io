@@ -1,2 +1,2 @@
-# @KookaburraDev
+# KookaburraDev
 Official website
